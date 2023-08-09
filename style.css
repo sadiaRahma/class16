@@ -1,0 +1,15 @@
+a{
+    text-decoration-line: overline
+        underline;
+    text-decoration-color: blue;
+    text-decoration-style: dotted;
+    text-transform: capitalize;
+    
+}
+p{
+    text-indent: 50px;letter-spacing: 5px;
+    word-spacing: 5px;
+    line-height: 200%;
+    white-space: pre-wrap;
+    
+}
