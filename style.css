@@ -11,5 +11,6 @@ p{
     word-spacing: 5px;
     line-height: 200%;
     white-space: pre-wrap;
+     text-shadow:  2px 2px 5px red;
     
 }
